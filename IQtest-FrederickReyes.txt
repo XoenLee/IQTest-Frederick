@@ -1,0 +1,36 @@
+IQ Test
+
+1. Answer: Option number (2).
+
+	I chose option number (2) because, as we can see from the overall pattern, the upper right line is angled from right to left the same as the lower left line and together with the middle asterisk form a straight line pattern. Following that pattern, I can state with confidence that the missing pattern will similarly result in a straight line with the top left line with its line extending from the left to the right, which is how I arrive at choosing option number (2).
+
+
+2. Answer: Option number (2).
+
+	I chose option number (2) because, the general pattern shows that the shapes grows larger from left to right, and because the first row's shapes are all triangles, the second row's shapes are circles, and the last row's shapes are squares, I chose option number two (2).
+
+
+3. Answer: Option number (3).
+
+	I chose option number (3) because, according to the general pattern, the first column's shape will combine with the second column's shape to form the shape on the third column. Given that the third row's third column is made up of two square shapes that combine together, if we separate them and follow the pattern of the second row shapes, we can find the solution, which is option number (3). PS: At first glance, this appears to be fairly confusing since, as we can see from the first row, the triangles are placed in the middle, while those in the second row the circles are placed on the sides. This led me to believe that the third row's shapes would be positioned at various sides. But, what led me to the conclusion that the pattern is the same as the second row, is the fact that if the shapes from the second and third rows are in the middle, the combined shapes that will result from them will appear to be just a single redundant shape.
+
+
+4. Answer: Option number (4).
+
+	I chose option number (4), according to these following trends:
+
+First: The circle's fill keeps shifting from black to white or from white to black as it moves from left to right.
+Second: The square's fill keeps shifting from black to white or from white to black as it moves from right to left.
+Third: The line is moving from the bottom to the top.
+
+Using the aforementioned patterns, I arrived to the conclusion that the missing pattern is the option number (4).
+
+
+5. Answer: Option number (3).
+	
+	I chose option number (3), according to these following trends:
+
+First: The black circle is moving from the bottom to the top.
+Second: The white filled square is moving from left to right, with it's general location changing per row from bottom to top.
+
+Using these aforementioned patterns, I arrived to the conclusion that the missing pattern that we're looking for is the option number (3).
